@@ -4,6 +4,8 @@
 
 My name is Nick, an aspiring web developer from New York. This portfolio showcases many of the skills and technologies I have learned over the course of my studies. My projects emphasise the use of HTML, CSS and JavaScript to produce well designed and functional web applications.
 
+<br>
+
 ### <a href="https://nicholasaltieri.github.io/Bus-Tracker/"> Bus Tracker Maps API </a>
 
 In this project, I used the MapBox API to display a real time navigation map on the document object module. With the use of JavaScript we were able to use markers which display a certain point on the map in latitude and longitude. The map features use these markers to display bus stop between MIT and Harvard. When the button is clicked, an array or latitude and longitude points are passed through a function to show the different stops.
