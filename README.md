@@ -11,7 +11,7 @@ In this project, I used the MapBox API to display a real time navigation map on 
 <a href="https://github.com/nicholasaltieri/Bus-Tracker"> Link to Github Code </a>
 
 
-
+<br>
 
 ### <a href="https://nicholasaltieri.github.io/Eyes-Exercise/"> Eyes Exercise </a>
 
@@ -20,7 +20,7 @@ This exercise emphasizes using JavaScript to manipulate the document object modu
 <a href="https://github.com/nicholasaltieri/Eyes-Exercise"> Link to Github Code </a>
 
 
-
+<br>
 
 ### <a href="https://nicholasaltieri.github.io/Pacman/"> Pacman Factory</a>
 
