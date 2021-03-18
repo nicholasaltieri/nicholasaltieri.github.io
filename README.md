@@ -1,6 +1,6 @@
-# nicholasaltieri.github.io
+# Nicholas Altieri - Web Developer
 
-## Welcome
+## Welcome to My Portfolio
 
 My name is Nick, an aspiring web developer from New York. This portfolio showcases many of the skills and technologies I have learned over the course of my studies. My projects emphasise the use of HTML, CSS and JavaScript to produce well designed and functional web applications.
 
