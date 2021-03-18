@@ -11,11 +11,15 @@ In this project, I used the MapBox API to display a real time navigation map on 
 <a href="https://github.com/nicholasaltieri/Bus-Tracker"> Link to Github Code </a>
 
 
+
+
 ### <a href="https://nicholasaltieri.github.io/Eyes-Exercise/"> Eyes Exercise </a>
 
 This exercise emphasizes using JavaScript to manipulate the document object module and its elements. It also touches on css styling principles. The 'eyes' in this file consist of a pair of divs styled to represent a pair of eyes. We used JavaScript mouse events to program the eyes to follow the mouse in the DOM.
 
 <a href="https://github.com/nicholasaltieri/Eyes-Exercise"> Link to Github Code </a>
+
+
 
 
 ### <a href="https://nicholasaltieri.github.io/Pacman/"> Pacman Factory</a>
